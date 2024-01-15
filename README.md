@@ -1,4 +1,4 @@
-<p align="center">Eu ❤️ resolver desafios usando tecnologia. <br><br> Atualmente sou uma desenvolvedora Web que utiliza Django como principal ferramenta de trabalho. Tenho  experiência com <strong>HTML, CSS, JavaScript, Python, Django e MySql</strong> as quais utilizo para resolver diversos problemas de projetos variados. Estou cursando Analise e Desenvolvimento de Sistemas e realizando projetos a parte para aprimorar meus conhecimentos.</p>&nbsp;
+<p align="center">Eu ❤️ resolver desafios usando tecnologia. <br><br> Atualmente sou uma desenvolvedora Web que utiliza Django como principal ferramenta de trabalho. Tenho  experiência com <strong>HTML, CSS, JavaScript, Python, Django e MySql</strong>. Estou cursando Análise e Desenvolvimento de Sistemas e realizando projetos à parte para aprimorar meus conhecimentos.</p>&nbsp;
  
  &nbsp;
  &nbsp;
